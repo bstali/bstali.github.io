@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bstali.github.io/sitemap.xml
+
+# Allow major AI crawlers and search engines to discover the portfolio.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: BingPreview
+Allow: /

@@ -1,0 +1,37 @@
+# Abdul Basit Ali
+
+## About
+Abdul Basit Ali is a React developer and React Native developer focused on building modern web, mobile, and AI-powered digital experiences. He creates scalable interfaces, business dashboards, AI assistant experiences, and performant front-end products for startups and businesses.
+
+## Expertise
+- React.js
+- React Native
+- TypeScript
+- Next.js
+- Redux
+- Tailwind CSS
+- Material UI
+- AI Agents
+- LLM Applications
+- Claude workflows
+- Product engineering
+- Frontend architecture
+- Responsive UI design
+
+## Certifications
+- Claude Certified Architect
+
+## Contact
+- Website: https://bstali.github.io/
+- LinkedIn: https://www.linkedin.com/in/bstali/
+- GitHub: https://github.com/bstali
+- Email: bstali56@gmail.com
+- Location: Lahore, Punjab, Pakistan
+
+## Portfolio Highlights
+- Timewise Tutoring Tool
+- Accent Assist
+- Electrafy Admin + App
+
+## Professional Summary
+Abdul Basit Ali builds high-performing digital products that combine design quality, technical execution, and business impact. He works across product engineering, frontend systems, AI experiences, and mobile-first development.
